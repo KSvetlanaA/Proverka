@@ -15,6 +15,7 @@ namespace Proverka
         public Form1()
         {
             InitializeComponent();
+            MessageBox.Show("rdtfgyh");
         }
     }
 }
